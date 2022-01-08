@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1063777536149",
+    "project_id": "final-project-react-12190",
+    "storage_bucket": "final-project-react-12190.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063777536149:android:4ee638d77d57c14e00739c",
+        "android_client_info": {
+          "package_name": "com.a3m.upwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063777536149-dogv8m07tjng48646i2t6f18arn2bj2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHJ1Tu3VYIptuMhUvx2wZazEzkOefhjqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063777536149-dogv8m07tjng48646i2t6f18arn2bj2k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1063777536149-0ks583umpp730jmtfmk8aqjfv7d3mcj6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.a3m.upwork"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
